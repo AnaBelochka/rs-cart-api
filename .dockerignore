@@ -1,0 +1,9 @@
+# prevent to copy huge modules
+node_modules
+
+# prevent to copy unnecessary and sensitive files
+.git
+.gitignore
+.env
+npm-debug.log
+Dockerfile
